@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片生成器"
+  short_description: "将文章或笔记转换为结构化的知识卡片，便于学习和复习"
+  default_prompt: "请帮我将这篇文章转换成知识卡片"
